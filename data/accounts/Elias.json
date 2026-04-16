@@ -1,0 +1,22 @@
+{
+  "account": "Elias",
+  "preferences": {
+    "theme": "Light",
+    "week_start_day": "Sunday"
+  },
+  "tasks": [
+    {
+      "title": "test",
+      "description": "test",
+      "date": "2026-04-15",
+      "start": "09:00",
+      "end": "10:00",
+      "color": "#DDE9FF",
+      "recurring_days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  ]
+}

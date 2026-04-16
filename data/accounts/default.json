@@ -1,0 +1,36 @@
+{
+  "account": "default",
+  "preferences": {
+    "theme": "Light",
+    "week_start_day": "Sunday"
+  },
+  "tasks": [
+    {
+      "title": "Morning Focus",
+      "description": "Deep work",
+      "date": "2026-04-15",
+      "start": "09:00",
+      "end": "11:00",
+      "color": "#DDE9FF",
+      "recurring_days": []
+    },
+    {
+      "title": "Lunch Break",
+      "description": "Recharge",
+      "date": "2026-04-15",
+      "start": "12:00",
+      "end": "13:00",
+      "color": "#DDF7EC",
+      "recurring_days": []
+    },
+    {
+      "title": "Wrap Up",
+      "description": "Review progress",
+      "date": "2026-04-15",
+      "start": "17:00",
+      "end": "18:00",
+      "color": "#FFEBD9",
+      "recurring_days": []
+    }
+  ]
+}

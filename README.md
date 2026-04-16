@@ -5,8 +5,8 @@ An automated scheduling program through the use of a personlized AI assistant. A
 # The Problem
 
 Modern schedulers are innefficient and require constant modifications from the user<br/>
-- Reorganizing Events
-- Key Events
+- Reorganizing events
+- Defining key events
 - Recurring events not based on days of the week
 
 # The Solution
